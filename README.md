@@ -1,6 +1,8 @@
 # deliberation-field
 Deliberation Field
 
+![](cover.png | height = 100px)
+ 
 <img src="https://github.com/pedroveloso13/deliberation-field/cover.png" width="100">
 
 Deliberation field is a diagrammatic representation of information exchanges, such as dialogues, conflicts and discourses. It approaches the topic by representing multiple agents interacting with and in a vector fields. Each agent uses its position to influence the behavior of other agents and the construction of the fields of the environment.
