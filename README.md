@@ -14,8 +14,6 @@ GH Python
 
 Techniques:
 
-<img src="description.png" width="300">
-
 Vector fields are used to generate the curves to represent the influence of the agents in the environment. 
 
 Agent-based navigation model inspired in the Reynold’s Boids (1986). It defines the moving actors in the field based on alignment, coherence and separation. Positive and negative charges indicate different ideological positions., which also affects their speed. 
@@ -23,6 +21,8 @@ Agent-based navigation model inspired in the Reynold’s Boids (1986). It define
 Process:
 
 A circle (a) defines the boundary of the field. This circle is divided in n points (b) that are used to define which curvesof the vector field are going to be visualized / integrated. Inside this field, points are generated along the time (c and e), representing different actors joining the deliberation.  This points have real numbers as their charges, which corresponds to a certain ideological position. As the time passes, more points join the deliberation field, changing the shape of the curves (d, f and g).
+
+<img src="description.png" width="300">
 
 Results:
 
