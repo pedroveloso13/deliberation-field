@@ -6,8 +6,6 @@ Deliberation Field
 Deliberation field is a diagrammatic representation of information exchanges, such as dialogues, conflicts and discourses. It approaches the topic by representing multiple agents interacting with and in a vector fields. Each agent uses its position to influence the behavior of other agents and the construction of the fields of the environment.
 It was developed as a 1-week project for the course Art and Machine Learning, 2018 Spring CMU
 
-![](deliberation.gif)
-
 Implementation: 
 
 Rhino
@@ -16,7 +14,7 @@ GH Python
 
 Techniques:
 
-![](description.png)
+<img src="description.png" width="300">
 
 Vector fields are used to generate the curves to represent the influence of the agents in the environment. 
 
@@ -29,6 +27,8 @@ A circle (a) defines the boundary of the field. This circle is divided in n poin
 Results:
 
 The resulting artwork is a generative animation displaying the change of the deliberation field along the time. It starts with two agents and at certain interval, one more agent join the field. The initial setup (velocity, location, and charge) is defined randomly. The behavior of the agents (cohesion, separation, alignment, and staying inside the circle) changes with the development of the field.   
+
+<img src="deliberation.gif" width="300">
 
 Links:
 
