@@ -32,7 +32,7 @@ Results:
 The resulting artwork is a generative animation displaying the change of the deliberation field along the time. It starts with two agents and at certain interval, one more agent join the field. The initial setup (velocity, location, and charge) is defined randomly. The behavior of the agents (cohesion, separation, alignment, and staying inside the circle) changes with the development of the field.   
 
 <p align="center">
- <img src="deliberation.gif" width="300">
+ <img src="deliberation.gif">
 </p>
 Links:
 
