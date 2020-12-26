@@ -2,7 +2,7 @@
 Deliberation Field
  
 <p align="center">
- <img src="cover.png" width="300">
+ <img src="cover.png" width="400">
 </p>
 
 Deliberation field is a diagrammatic representation of information exchanges, such as dialogues, conflicts and discourses. It approaches the topic by representing multiple agents interacting with and in a vector fields. Each agent uses its position to influence the behavior of other agents and the construction of the fields of the environment.
@@ -24,17 +24,20 @@ Process:
 
 A circle (a) defines the boundary of the field. This circle is divided in n points (b) that are used to define which curvesof the vector field are going to be visualized / integrated. Inside this field, points are generated along the time (c and e), representing different actors joining the deliberation.  This points have real numbers as their charges, which corresponds to a certain ideological position. As the time passes, more points join the deliberation field, changing the shape of the curves (d, f and g).
 
-<img src="description.png" width="300">
-
+<p align="center">
+ <img src="description.png" width="300">
+</p>
 Results:
 
 The resulting artwork is a generative animation displaying the change of the deliberation field along the time. It starts with two agents and at certain interval, one more agent join the field. The initial setup (velocity, location, and charge) is defined randomly. The behavior of the agents (cohesion, separation, alignment, and staying inside the circle) changes with the development of the field.   
 
-<img src="deliberation.gif" width="300">
-
+<p align="center">
+ <img src="deliberation.gif" width="300">
+</p>
 Links:
 
 https://youtu.be/C4Z3769O0ug
+
 https://youtu.be/MVDnD6eucEU
 
 Reflection:
