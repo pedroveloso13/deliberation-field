@@ -42,7 +42,7 @@ https://youtu.be/MVDnD6eucEU
 
 ## Reflection:
 
-Despite the interest in information exchange, the core of the work is visual and abstract. All the effort was done to reduce the artwork to the curves that represent the environment built in real time by the agents. These curves establish a visual composition that is ambiguous and can be associated with external references. As the lines converge, they become solid regions with high slope as in contour lines of mountains or in the geometric modeling of complex folding surfaces. Besides, the use of time enables the navigation of the agents and the development of a variety of complex “topographies”. I expect that with the visual stimuli and the title, the audience will be able to inquiry into the existence of the interacting agents that are embedded in the field composition.
+Despite the interest in information exchange, the core of the work is visual and abstract. All the effort was done to reduce the artwork to the curves that represent the environment built in real time by the agents. These curves establish a visual composition that is ambiguous and can be associated with external references. As the lines converge, they become solid regions with high slope as in contour lines of mountains or in the geometric modeling of complex folding surfaces. Besides, the use of time enables the navigation of the agents and the development of a variety of complex “topographies”. I expect that with the visual stimuli and the title, the audience will be able to inquire into the existence of the interacting agents that are embedded in the field composition.
 
 ## References:
 Reynolds, C. 1986. “Boids: Flocks.” Herds and Schools–a Distributed Behavorial Model.
